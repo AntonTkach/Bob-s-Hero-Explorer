@@ -1,0 +1,2 @@
+"/t:HeroExplorer.Models.CharacterDataWrapper,HeroExplorer,json"
+"/t:HeroExplorer.Models.ComicDataWrapper,HeroExplorer,json"
