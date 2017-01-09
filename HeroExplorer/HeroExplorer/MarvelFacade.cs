@@ -16,8 +16,8 @@ namespace HeroExplorer
 {
     public class MarvelFacade
     {
-        private const string PrivateKey = "13afd975425abdaf29a013f26ef12789ed536c06";
-        private const string PublicKey = "4b76a06259953851972ad8977efec731";
+        private const string PrivateKey = "7cb9ac9865133dfc7f574ec0894013101f226275";
+        private const string PublicKey = "42c917df0016d37c06577aa24a640ff3";
         private const string ImageNotAvailablePath = "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available";
         private const int MaxCharacters = 1500;
 
