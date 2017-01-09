@@ -156,7 +156,7 @@
 
                 </Grid>
 
-                <TextBlock Text="Data provided by Marvel. © 2015 Marvel" 
+                <TextBlock Text="Data provided by Marvel. © 2016 Marvel" 
                    VerticalAlignment="Center" 
                    HorizontalAlignment="Center" 
                    Grid.ColumnSpan="2" 
@@ -165,7 +165,7 @@
                 <ProgressRing Name="MyProgressRing"
                       Width="100"
                       Height="100"
-                      Foreground="Gray"
+                      Foreground="DeepSkyBlue"
                       Grid.ColumnSpan="2"
                       Grid.RowSpan="3"
                       VerticalAlignment="Center"
